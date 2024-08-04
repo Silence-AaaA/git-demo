@@ -1,0 +1,27 @@
+hello wly!
+hello wly!
+hello wly!
+hello wly!
+hello wly!
+hello wly!
+xr-x 1 Slience 197121 0 Aug  4 21:18 ./
+xr-x 1 Slience 197121 0 Aug  4 21:18 ./
+drwxr-xr-x 1 Slience 197121 0 Aug  4 21:17 ../
+drwxr-xr-x 1 Slience 197121 0 Aug  4 21:18 .git/
+drwxr-xr-x 1 Slience 197121 0 Aug  4 21:17 ../
+drwxr-xr-x 1 Slience 197121 0 Aug  4 21:18 .git/
+xr-x 1 Slience 197121 0 Aug  4 21:18 ./
+xr-x 1 Slience 197121 0 Aug  4 21:18 ./
+xr-x 1 Slience 197121 0 Aug  4 21:18 ./
+xr-x 1 Slience 197121 0 Aug  4 21:18 ./
+xr-x 1 Slience 197121 0 Aug  4 21:18 ./
+drwxr-xr-x 1 Slience 197121 0 Aug  4 21:17 ../
+drwxr-xr-x 1 Slience 197121 0 Aug  4 21:18 .git/
+drwxr-xr-x 1 Slience 197121 0 Aug  4 21:17 ../
+drwxr-xr-x 1 Slience 197121 0 Aug  4 21:18 .git/
+drwxr-xr-x 1 Slience 197121 0 Aug  4 21:17 ../
+drwxr-xr-x 1 Slience 197121 0 Aug  4 21:18 .git/
+drwxr-xr-x 1 Slience 197121 0 Aug  4 21:17 ../
+drwxr-xr-x 1 Slience 197121 0 Aug  4 21:18 .git/
+drwxr-xr-x 1 Slience 197121 0 Aug  4 21:17 ../
+drwxr-xr-x 1 Slience 197121 0 Aug  4 21:18 .git/
